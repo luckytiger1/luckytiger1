@@ -2,7 +2,7 @@
 
 ### I'm a Software Developer!
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and PHP
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
