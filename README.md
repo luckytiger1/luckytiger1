@@ -2,8 +2,8 @@
 
 ### I'm a Software Developer!
 
-- 🌱 I’m currently learning Python and PHP
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Python, PHP and Java
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
