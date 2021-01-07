@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="luckytiger1" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="luckytiger1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckytiger1&layout=compact&hide=html" alt="luckytiger1" /></p>
