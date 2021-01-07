@@ -14,7 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckytiger1&layout=compact&hide=html" alt="luckytiger1" /></p>
 <br/>
-<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckytiger1&show_icons=true" alt="luckytiger1" /></p>
 
 ---
