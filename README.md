@@ -1,9 +1,9 @@
-## Hi there, I'm Daniyar 👋
+## Hi there, I'm Daniyar
 
 ### I'm a Software Developer!
 
-- 🌱 I’m currently learning Python, PHP and Java
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning to code
+- 🥅 Life Goals: Become a billionaire
 
 ### Connect with me:
 
